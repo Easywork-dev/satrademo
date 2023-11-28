@@ -1,4 +1,4 @@
-  [
+  {[
   {
     "itemType": "cake",
     "orderState": "Created",
@@ -493,5 +493,5 @@
     "price": 50,
     "id": 55,
     "lastUpdateTime": "2023-11-28T05:29:42.668Z"
-  }]
+  }]}
 
